@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+
+# Shouldn't share puzzle inputs or text, only code solutions
+src/assets/
