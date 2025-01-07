@@ -8,7 +8,8 @@ export default tseslint.config(
   {
     rules: {
       "no-constant-condition": "off",
-      "@typescript-eslint/no-non-null-assertion": "off"
+      "@typescript-eslint/no-non-null-assertion": "off",
+      "@typescript-eslint/no-explicit-any": "warn"
     }
   }
 );
